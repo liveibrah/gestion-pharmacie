@@ -4,7 +4,7 @@
 
 L'objectif de ce projet est de développer une application basique de gestion pour une pharmacie. Ce projet se concentre sur les fonctions de gestion, telles que la gestion des stocks, des ventes, des commandes, etc.
 
-Le but final n'est pas de créer une application 100 % fonctionnelle avec une interface intuitive, mais plutôt de réaliser un exercice d'entraînement permettant la mise en application des compétences acquises en **C** et en **programmation procédurale**. L'objectif est d'imaginer, concevoir et implémenter un algorithme répondant à un besoin spécifique sous certaines contraintes.
+Le but final n'est pas de créer une application 100 % fonctionnelle avec une interface intuitive, mais plutôt de réaliser un exercice d'entraînement permettant la mise en application des compétences acquises en **C**, en **programmation procédurale** et **programmation modulaire**. L'objectif est d'imaginer, concevoir et implémenter un algorithme répondant à un besoin spécifique sous certaines contraintes.
 
 ## Contexte
 

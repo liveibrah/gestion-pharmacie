@@ -28,4 +28,4 @@ Cet exercice peut être perçu comme un outil censé stimuler la capacité à d�
 
 1. Clonez ce repository :
    ```bash
-   git clone https://github.com/username/gestion-pharmacie.git
+   git clone https://github.com/liveibrah/gestion-pharmacie.git
